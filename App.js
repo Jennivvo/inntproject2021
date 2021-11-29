@@ -7,7 +7,7 @@ import Ionicons from 'react-native-vector-icons/Ionicons';
 import StackNavigator from "./components/StackNavigator";
 import firebase from "firebase";
 
-// hej jakob
+// hej jakob hej hej
 
 // konfiguration til firebase
 
